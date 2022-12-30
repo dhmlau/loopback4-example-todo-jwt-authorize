@@ -52,7 +52,7 @@
     "tslib": "^1.11.1"
   },
   "devDependencies": {
-    "@loopback/build": "^5.3.0",
+    "@loopback/build": "^5.4.3",
     "@loopback/eslint-config": "^6.0.5",
     "@loopback/http-caching-proxy": "^2.1.2",
     "@loopback/testlab": "^3.1.2",
